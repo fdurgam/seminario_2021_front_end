@@ -2,7 +2,7 @@ name: seminario2021
 on:
   push:
     branches:
-      - master
+      - main
 jobs:
   deploy:
     name: Deploy
